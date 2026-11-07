@@ -1,6 +1,4 @@
-  @moduledoc """
-  modulos para definir las estructuras basicas de ciudad y movimiento con sus parseos verificatorios
-  """
+# modulos para definir las estructuras basicas de ciudad y movimiento con sus parseos verificatorios
 
 defmodule Ciudad do
   defstruct id_ciudad: "", nombre: "", numero_habitantes: 0
